@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit-khandelwal&label=Profile%20views&color=0e75b6&style=flat" alt="arpit-khandelwal" /> </p>
 
-- 🌱 I’m currently learning **Java, Web dev and have started App Dev as well**
+- 🌱 I’m currently learning **Web dev(back-end) and App Dev(Flutter) **
 
 - 👯 I’m looking to collaborate on **open source projects, particularly those involving Web development, ML and Cloud Computing (once I start learning it xD)**
 
 - 📫 How to reach me **arpit.khandelwal2002@gmail.com**
 
-- ⚡ Fun fact **Hans Zimmer soundtracks distracts you from coding**
+- ⚡ Fun fact **Hans Zimmer soundtracks are great for taking a nap**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
