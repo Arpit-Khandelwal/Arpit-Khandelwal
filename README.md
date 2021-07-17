@@ -23,13 +23,4 @@
     <a href="mailto:arpit.khandelwal2002@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
     <a href="https://arpit-khandelwal.me" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
-<h3 align="left">Languages and Tools:</h3>
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/Arpit-Khandelwal/Arpit-Khandelwal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit-Khandelwal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/Arpit-Khandelwal/Arpit-Khandelwal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arpit-Khandelwal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
