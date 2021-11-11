@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit-khandelwal&label=Profile%20views&color=0e75b6&style=flat" alt="arpit-khandelwal" /> </p>
 
-- 🌱 I’m currently learning **Blockchain(specifically Smart contracts in Solidity) and App Dev(Flutter) **
+- 🌱 I’m currently learning **Blockchain(specifically Smart contracts in Solidity)**
 
 - 👯 I’m looking to collaborate on **open source projects, particularly those involving Web development, ML and Cloud Computing (once I start learning it xD)**
 
