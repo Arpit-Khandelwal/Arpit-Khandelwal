@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Web3**
 
-- 👯 I’m looking to collaborate on **open source projects, particularly those involving Blockchain Development**
+- 👯 I’m looking to collaborate on **open source projects, particularly those involving Dapps**
 
 - 📫 Reach me at: **arpit.khandelwal2002@gmail.com**
 
