@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Hand-Wave" width="30px"> , I'm Arpit Khandelwal</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Hand-Wave" width="0px"> , I'm Arpit Khandelwal</h1>
 
 <h3 align="center">Computer Science has been my interest since, as far as I remember, 8 y/o.</h3>
 
