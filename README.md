@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Hand-Wave" width="0px"> , I'm Arpit Khandelwal</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> , I'm Arpit Khandelwal</h1>
 
 <h3 align="center">Computer Science has been my interest since, as far as I remember, 8 y/o.</h3>
 
@@ -11,7 +11,7 @@
 - 📫 Reach me at: **arpit.khandelwal2002@gmail.com**
 
 
-- ⚡ Fun fact **Hans Zimmer soundtracks are great for taking a nap**
+- ⚡ Fun fact **Hans Zimmer soundtracks are doorways to flow state**
 
 
 <p align="center">
