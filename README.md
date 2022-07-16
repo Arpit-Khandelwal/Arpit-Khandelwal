@@ -36,9 +36,9 @@
 
 ## 🏆 Github Status
   
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit-khandelwal&show_icons=true&hide_border=true&theme=dark&layout=compact&count_private=true" alt="arpit-khandelwal" width="40%" >
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit-khandelwal&show_icons=true&hide_border=true&theme=dark&layout=compact&hide=python,javascript,html,css" alt="arpit-khandelwal" width="40%" >
 
-<img  src="https://github-readme-stats.vercel.app/api?username=arpit-khandelwal&show_icons=true&hide_border=true&theme=dark" width="40%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=arpit-khandelwal&show_icons=true&hide_border=true&theme=dark&count_private=true" width="40%" align="right" >
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=arpit-khandelwal&theme=dark" width="40%" >
 
