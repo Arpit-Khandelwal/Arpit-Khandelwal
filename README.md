@@ -36,12 +36,11 @@
 
 ## 🏆 Github Status
   
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit-khandelwal&show_icons=true&hide_border=true&theme=dark&layout=compact&hide=python,javascript,html,css" alt="arpit-khandelwal" width="40%" >
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit-khandelwal&show_icons=true&hide_border=true&theme=dark&layout=compact&hide=python,javascript,html,css" alt="arpit-khandelwal"  >
 
-<img  src="https://github-readme-stats.vercel.app/api?username=arpit-khandelwal&show_icons=true&hide_border=true&theme=dark&count_private=true" width="40%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=arpit-khandelwal&show_icons=true&hide_border=true&theme=dark&count_private=true" align="center" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=arpit-khandelwal&theme=dark" width="40%" >
-
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpit-khandelwal&theme=dark" >
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ArpitKhandelwal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ArpitKhandelwal" /></a></p><br><br>
