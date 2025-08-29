@@ -1,14 +1,5 @@
-# Hi there! 👋 I'm Arpit Khandelwal
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-</p>
 
 <h3 align="center">Turning ideas into products that scale 🚀</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arpit-khandelwal&label=Profile%20views&color=0e75b6&style=flat" alt="arpit-khandelwal" />
-</p>
 
 ---
 
@@ -20,23 +11,29 @@
 - 👯 Weekend explorer of **DevOps, Pentesting, and Rust experiments**
 
 ---
+<!--
+  This is a multi-line comment.
+  You can write multiple lines of text here.
 
 ## 🚀 Major Projects
 
 ### Project 1
 <!-- ![Project Screenshot](link-to-screenshot) -->
+<!--
 *Brief description of your most impressive project. What problem does it solve? What technologies were used?*
 
 ### Project 2
 <!-- ![Project Demo](link-to-gif) -->
+<!--
 *Description of another significant project. Highlight the impact and technical challenges overcome.*
 
 ### Project 3
 <!-- ![Project Image](link-to-image) -->
+<!--
 *Third major project description. Focus on innovation and results achieved.*
 
 ---
-
+-->
 ## 🛠️ Tech & Tools
 
 <p align="left">
