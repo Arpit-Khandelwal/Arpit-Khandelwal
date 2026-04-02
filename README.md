@@ -19,7 +19,6 @@ on weekends you'll find me doing competitive programming in rust, messing with d
 
 🎮 **[encrypted-games](https://github.com/Arpit-Khandelwal/encrypted-games)** — confidential on-chain games built on arcium's encrypted computation layer
 
-📊 **[avici](https://github.com/Arpit-Khandelwal/avici-dashboard)** — analytics dashboard and backend for avici labs
 
 🧬 **[poop-tracker](https://github.com/MicrobiomeDAO/poop-tracker)** — microbiome tracking app for MicrobiomeDAO
 
