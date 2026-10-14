@@ -1,64 +1,50 @@
+### hey, i'm arpit 👋
 
-<h3 align="center">building things at the intersection of AI, crypto, and dev tooling</h3>
+backend & AI-systems engineer in bengaluru. i like the layer where software meets something hard — hardware, money, or a model that has to be right in real time.
 
----
-
-### about
-
-software engineer in bangalore. previously at **HPE** (intern → SDE1). currently building with **AI agents**, **Solana/Arcium**, and **privacy-preserving systems**. long-term goal: build products and ecosystems in europe.
-
-on weekends you'll find me doing competitive programming in rust, messing with devops, or going down security rabbit holes.
+- 🛠️ shipped the **[reskilll](https://reskilll.com)** platform end to end — auth (OTP + OAuth), CMS, judging & submissions engine, organiser dashboards
+- 🤖 built agent orchestration for an AI concierge at **avici money** — tool calling, task routing, multi-step state
+- 🔐 SDE at **hewlett packard enterprise** — DAST microservices normalising WebInspect / Burp / ZAP / OpenVAS output into one pipeline
+- ⚡ freelance since 2021 — LLM workflows, scrapers, FFmpeg pipelines, bots, solana programs
 
 ---
 
-### what i'm working on
+### things i've built
 
-🔒 **[dark-payroll](https://github.com/Arpit-Khandelwal/dark-payroll)** — private payroll on solana using ZK proofs. hide salaries on-chain while staying regulatory compliant. built with ShadowWire + Range.
-
-🤖 **[agentpay](https://github.com/Arpit-Khandelwal/agentpay)** — streaming micropayment protocol for agent-to-agent services on solana
-
-🎮 **[encrypted-games](https://github.com/Arpit-Khandelwal/encrypted-games)** — confidential on-chain games built on arcium's encrypted computation layer
-
-
-🧬 **[poop-tracker](https://github.com/MicrobiomeDAO/poop-tracker)** — microbiome tracking app for MicrobiomeDAO
-
-🔍 **[mouse-cursor-ai](https://github.com/Arpit-Khandelwal/mouse-cursor-ai)** — AI-powered mouse pointer for guided accessibility
+| project | what it is | stack |
+|---|---|---|
+| **[tic-tac-futures](https://github.com/Arpit-Khandelwal/tic-tac-futures)** | every one of the 255,168 tic-tac-toe games as a branching timeline tree, with D4 symmetry folding · [live](https://tic-tac-futures.vercel.app) | typescript · game trees |
+| **[payroll-arcium-program](https://github.com/Arpit-Khandelwal/payroll-arcium-program)** | confidential payroll on solana — salaries encrypted to an arcium MXE, revealed only on payment | rust · anchor · MPC |
+| **[dark-payroll](https://github.com/Arpit-Khandelwal/dark-payroll)** | private payroll with ZK compliance proofs — solana privacy hackathon 2026 | typescript · zk |
+| **[agentpay](https://github.com/Arpit-Khandelwal/agentpay)** · **[x402-poc](https://github.com/Arpit-Khandelwal/x402-poc)** | streaming micropayments so agents can pay per request over HTTP 402 | solana · x402 |
+| **[leash](https://github.com/Arpit-Khandelwal/leash)** | give your agent a card, keep the leash — spend control for agent subscriptions | typescript · payments |
+| **[jev-linkedin-slop-filter](https://github.com/Arpit-Khandelwal/jev-linkedin-slop-filter)** | stamps BAIT / CORP / BRAG on linkedin engagement-bait, judged live by a fast typed model | chrome extension · LLMs |
 
 ---
 
-### tech
+### open source
+
+- **[XiaoMiku01/TetherKit#12](https://github.com/XiaoMiku01/TetherKit/pull/12)** — installer fix: stop `chown -R` on the shared `PrivilegedHelperTools` directory
+<!-- oss-contributions -->
+
+---
+
+### toolbox
 
 ```
-languages    rust · typescript · python · solidity · c++
-frontend     next.js · react
-backend      node.js · hono · anchor
-infra        docker · kubernetes · aws · linux
-blockchain   solana · arcium · helius
-ai/ml        RAG · AI agents · MCP servers · timesfm
+languages   rust · typescript · python · c++ · solidity
+backend     node · express · hono · next.js · mongodb
+ai          agent orchestration · tool calling · MCP servers · RAG · evals
+systems     linux · docker · ffmpeg · kubernetes · aws
+chain       solana · anchor · arcium (MPC) · helius
 ```
 
----
-
-### competitive programming
-
-503 commits in [CPP-Practice](https://github.com/Arpit-Khandelwal/CPP-Practice) — codeforces, codechef, leetcode, striver sheet
+competitive programming in c++ and rust → **[CPP-Practice](https://github.com/Arpit-Khandelwal/CPP-Practice)** (500+ commits across codeforces, codechef, leetcode)
 
 ---
 
-### links
-
-<p align="center">
-  <a href="https://arpit-khandelwal.me">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/arpitkhandelwa3">
-    <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/arpit-khandelwal-0812aa1a3">
-    <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<p>
+  <a href="https://arpitkhandelwal.com"><img src="https://img.shields.io/badge/arpitkhandelwal.com-111?style=flat-square&logo=googlechrome&logoColor=white" alt="website" /></a>
+  <a href="https://linkedin.com/in/arpit-khandelwal-0812aa1a3"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://x.com/arpitkhandelwa3"><img src="https://img.shields.io/badge/@arpitkhandelwa3-000?style=flat-square&logo=x&logoColor=white" alt="x" /></a>
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arpit-Khandelwal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</div>
