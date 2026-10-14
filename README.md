@@ -26,6 +26,7 @@ backend & AI-systems engineer in bengaluru. i like the layer where software meet
 
 - **[XiaoMiku01/TetherKit#12](https://github.com/XiaoMiku01/TetherKit/pull/12)** — installer fix: stop `chown -R` on the shared `PrivilegedHelperTools` directory
 - **[neuralinkcorp/datarepo#82](https://github.com/neuralinkcorp/datarepo/pull/82)** — catalog SQL snippet: render a safe placeholder instead of `[object Object]` for unrenderable filter values
+- **[CopilotKit/CopilotKit#7810](https://github.com/CopilotKit/CopilotKit/pull/7810)** — A2UI: honour `includeSchema: false` so component schemas stop leaking into agent context
 <!-- oss-contributions -->
 
 ---
