@@ -28,6 +28,7 @@ backend & AI-systems engineer in bengaluru. i like the layer where software meet
 - **[neuralinkcorp/datarepo#82](https://github.com/neuralinkcorp/datarepo/pull/82)** — catalog SQL snippet: render a safe placeholder instead of `[object Object]` for unrenderable filter values
 - **[CopilotKit/CopilotKit#7810](https://github.com/CopilotKit/CopilotKit/pull/7810)** — A2UI: honour `includeSchema: false` so component schemas stop leaking into agent context
 - **[sgl-project/sglang#44240](https://github.com/sgl-project/sglang/pull/44240)** — LLM serving: stop the Trinity tool-call parser from corrupting `<think>` tags inside function arguments
+- **[neuralink/tsui#30](https://github.com/neuralink/tsui/pull/30)** — tailscale TUI: dlopen libX11 at runtime so the binary runs on headless linux
 <!-- oss-contributions -->
 
 ---
@@ -38,7 +39,7 @@ backend & AI-systems engineer in bengaluru. i like the layer where software meet
 languages   rust · typescript · python · c++ · solidity
 backend     node · express · hono · next.js · mongodb
 ai          agent orchestration · tool calling · MCP servers · RAG · evals
-systems     linux · docker · ffmpeg · kubernetes · aws
+systems     linux · docker · go · c/cgo · ffmpeg · kubernetes · aws
 chain       solana · anchor · arcium (MPC) · helius
 ```
 
