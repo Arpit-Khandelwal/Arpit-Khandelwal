@@ -24,12 +24,28 @@ backend & AI-systems engineer in bengaluru. i like the layer where software meet
 
 ### open source
 
-- **[XiaoMiku01/TetherKit#12](https://github.com/XiaoMiku01/TetherKit/pull/12)** — installer fix: stop `chown -R` on the shared `PrivilegedHelperTools` directory
-- **[neuralinkcorp/datarepo#82](https://github.com/neuralinkcorp/datarepo/pull/82)** — catalog SQL snippet: render a safe placeholder instead of `[object Object]` for unrenderable filter values
-- **[CopilotKit/CopilotKit#7810](https://github.com/CopilotKit/CopilotKit/pull/7810)** — A2UI: honour `includeSchema: false` so component schemas stop leaking into agent context
-- **[sgl-project/sglang#44240](https://github.com/sgl-project/sglang/pull/44240)** — LLM serving: stop the Trinity tool-call parser from corrupting `<think>` tags inside function arguments
-- **[neuralink/tsui#30](https://github.com/neuralink/tsui/pull/30)** — tailscale TUI: dlopen libX11 at runtime so the binary runs on headless linux
-<!-- oss-contributions -->
+<!-- oss:start -->
+
+- ✅ **[anmolkapil/plexo#142](https://github.com/anmolkapil/plexo/pull/142)**: Open the Linux tab before using its panel in the download page tests
+- ✅ **[anmolkapil/plexo#139](https://github.com/anmolkapil/plexo/pull/139)**: Fall back to a plain GET when a server refuses range requests with 403
+- ✅ **[anmolkapil/plexo#144](https://github.com/anmolkapil/plexo/pull/144)**: Shorten a long name with an early dot instead of refusing the download
+- ✅ **[anmolkapil/plexo#146](https://github.com/anmolkapil/plexo/pull/146)**: Don't show 100% before the last byte, or "undefined" for sub-byte speeds
+- ✅ **[Anil-matcha/open-spaces#60](https://github.com/Anil-matcha/open-spaces/pull/60)**: Add Slop Filter for LinkedIn to independent implementations
+- ✅ **[AbdelStark/awesome-typesafe-jev#91](https://github.com/AbdelStark/awesome-typesafe-jev/pull/91)**: Add Slop Filter for LinkedIn
+- ✅ **[TryCaspian/caspian-sdk#167](https://github.com/TryCaspian/caspian-sdk/pull/167)**: expose chat_type on Message so handlers can tell DMs from group chatter
+- ✅ **[ayghri/i-have-adhd#63](https://github.com/ayghri/i-have-adhd/pull/63)**: fix(claude): drop the manifest hooks key that blocks the SessionStart hook
+- ✅ **[code100x/job-board#499](https://github.com/code100x/job-board/pull/499)**: feat: Expand Sorting Options for Jobs 
+
+<sub>in review</sub>
+
+- 🔄 **[anmolkapil/plexo#140](https://github.com/anmolkapil/plexo/pull/140)**: Ship a .tar.gz for Linux alongside the AppImage, .deb and .rpm
+- 🔄 **[neuralink/tsui#30](https://github.com/neuralink/tsui/pull/30)**: Load libX11 at runtime instead of linking it
+- 🔄 **[sgl-project/sglang#44240](https://github.com/sgl-project/sglang/pull/44240)**: [Fix] trinity: Keep think tags inside tool-call arguments
+- 🔄 **[CopilotKit/CopilotKit#7810](https://github.com/CopilotKit/CopilotKit/pull/7810)**: fix(a2ui-renderer): omit component schemas from catalog context when includeSchema is false
+- 🔄 **[neuralinkcorp/datarepo#82](https://github.com/neuralinkcorp/datarepo/pull/82)**: Show a placeholder for unrenderable values in the SQL-filter catalog snippet
+- 🔄 **[XiaoMiku01/TetherKit#12](https://github.com/XiaoMiku01/TetherKit/pull/12)**: fix(install): don't chown -R the shared PrivilegedHelperTools directory
+
+<!-- oss:end -->
 
 ---
 
