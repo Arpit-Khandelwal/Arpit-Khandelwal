@@ -26,6 +26,9 @@ backend & AI-systems engineer in bengaluru. i like the layer where software meet
 
 <!-- oss:start -->
 
+- ✅ **[anmolkapil/plexo#150](https://github.com/anmolkapil/plexo/pull/150)**: Keep the end date calendar mounted, and wait for history before moving a file in a test
+- ✅ **[anmolkapil/plexo#151](https://github.com/anmolkapil/plexo/pull/151)**: Re-render only what changed on each progress update
+- ✅ **[anmolkapil/plexo#148](https://github.com/anmolkapil/plexo/pull/148)**: Start and stop schedules at the DST jump when their time is skipped
 - ✅ **[anmolkapil/plexo#149](https://github.com/anmolkapil/plexo/pull/149)**: Show "1m 0s" rather than "60s" for a time left just under a minute
 - ✅ **[anmolkapil/plexo#142](https://github.com/anmolkapil/plexo/pull/142)**: Open the Linux tab before using its panel in the download page tests
 - ✅ **[anmolkapil/plexo#139](https://github.com/anmolkapil/plexo/pull/139)**: Fall back to a plain GET when a server refuses range requests with 403
@@ -39,11 +42,10 @@ backend & AI-systems engineer in bengaluru. i like the layer where software meet
 
 <sub>in review</sub>
 
+- 🔄 **[GopeedLab/gopeed#1588](https://github.com/GopeedLab/gopeed/pull/1588)**: perf(http): use 64 KiB connection read buffers
+- 🔄 **[mlc-ai/xgrammar#987](https://github.com/mlc-ai/xgrammar/pull/987)**: fix: keep an escaped ^ at the start of a character class literal
 - 🔄 **[anmolkapil/plexo#154](https://github.com/anmolkapil/plexo/pull/154)**: Split the last blocks among free streams when a server caps each connection
 - 🔄 **[anmolkapil/plexo#153](https://github.com/anmolkapil/plexo/pull/153)**: Gather body chunks into fewer, larger disk writes
-- 🔄 **[anmolkapil/plexo#151](https://github.com/anmolkapil/plexo/pull/151)**: Re-render only what changed on each progress update
-- 🔄 **[anmolkapil/plexo#150](https://github.com/anmolkapil/plexo/pull/150)**: Keep the end date calendar mounted, and wait for history before moving a file in a test
-- 🔄 **[anmolkapil/plexo#148](https://github.com/anmolkapil/plexo/pull/148)**: Start and stop schedules at the DST jump when their time is skipped
 - 🔄 **[anmolkapil/plexo#140](https://github.com/anmolkapil/plexo/pull/140)**: Ship a .tar.gz for Linux alongside the AppImage, .deb and .rpm
 - 🔄 **[neuralink/tsui#30](https://github.com/neuralink/tsui/pull/30)**: Load libX11 at runtime instead of linking it
 - 🔄 **[sgl-project/sglang#44240](https://github.com/sgl-project/sglang/pull/44240)**: [Fix] trinity: Keep think tags inside tool-call arguments
