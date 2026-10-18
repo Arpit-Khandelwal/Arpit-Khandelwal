@@ -26,6 +26,7 @@ backend & AI-systems engineer in bengaluru. i like the layer where software meet
 
 <!-- oss:start -->
 
+- ✅ **[neuralink/tsui#30](https://github.com/neuralink/tsui/pull/30)**: Load libX11 at runtime instead of linking it
 - ✅ **[anmolkapil/plexo#150](https://github.com/anmolkapil/plexo/pull/150)**: Keep the end date calendar mounted, and wait for history before moving a file in a test
 - ✅ **[anmolkapil/plexo#151](https://github.com/anmolkapil/plexo/pull/151)**: Re-render only what changed on each progress update
 - ✅ **[anmolkapil/plexo#148](https://github.com/anmolkapil/plexo/pull/148)**: Start and stop schedules at the DST jump when their time is skipped
@@ -42,12 +43,13 @@ backend & AI-systems engineer in bengaluru. i like the layer where software meet
 
 <sub>in review</sub>
 
+- 🔄 **[anmolkapil/plexo#159](https://github.com/anmolkapil/plexo/pull/159)**: Give up on a magnet link at once when the DHT finds no one
+- 🔄 **[anmolkapil/plexo#158](https://github.com/anmolkapil/plexo/pull/158)**: Download from servers that give each byte range its own ETag (pCloud)
 - 🔄 **[GopeedLab/gopeed#1588](https://github.com/GopeedLab/gopeed/pull/1588)**: perf(http): use 64 KiB connection read buffers
 - 🔄 **[mlc-ai/xgrammar#987](https://github.com/mlc-ai/xgrammar/pull/987)**: fix: keep an escaped ^ at the start of a character class literal
 - 🔄 **[anmolkapil/plexo#154](https://github.com/anmolkapil/plexo/pull/154)**: Split the last blocks among free streams when a server caps each connection
 - 🔄 **[anmolkapil/plexo#153](https://github.com/anmolkapil/plexo/pull/153)**: Gather body chunks into fewer, larger disk writes
 - 🔄 **[anmolkapil/plexo#140](https://github.com/anmolkapil/plexo/pull/140)**: Ship a .tar.gz for Linux alongside the AppImage, .deb and .rpm
-- 🔄 **[neuralink/tsui#30](https://github.com/neuralink/tsui/pull/30)**: Load libX11 at runtime instead of linking it
 - 🔄 **[sgl-project/sglang#44240](https://github.com/sgl-project/sglang/pull/44240)**: [Fix] trinity: Keep think tags inside tool-call arguments
 - 🔄 **[CopilotKit/CopilotKit#7810](https://github.com/CopilotKit/CopilotKit/pull/7810)**: fix(a2ui-renderer): omit component schemas from catalog context when includeSchema is false
 - 🔄 **[neuralinkcorp/datarepo#82](https://github.com/neuralinkcorp/datarepo/pull/82)**: Show a placeholder for unrenderable values in the SQL-filter catalog snippet
