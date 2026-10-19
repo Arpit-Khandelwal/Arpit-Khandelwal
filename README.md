@@ -43,6 +43,8 @@ backend & AI-systems engineer in bengaluru. i like the layer where software meet
 
 <sub>in review</sub>
 
+- 🔄 **[neuralink/tsui#37](https://github.com/neuralink/tsui/pull/37)**: Add a help screen
+- 🔄 **[neuralink/tsui#36](https://github.com/neuralink/tsui/pull/36)**: Explain the NeedsMachineAuth state
 - 🔄 **[anmolkapil/plexo#159](https://github.com/anmolkapil/plexo/pull/159)**: Say "No peers found yet", search again, and stop after 30 s when the DHT finds no one for a magnet link
 - 🔄 **[anmolkapil/plexo#158](https://github.com/anmolkapil/plexo/pull/158)**: Download from servers that give each byte range its own ETag (pCloud)
 - 🔄 **[GopeedLab/gopeed#1588](https://github.com/GopeedLab/gopeed/pull/1588)**: perf(http): use 64 KiB connection read buffers
