@@ -26,6 +26,7 @@ backend & AI-systems engineer in bengaluru. i like the layer where software meet
 
 <!-- oss:start -->
 
+- ✅ **[GopeedLab/gopeed#1588](https://github.com/GopeedLab/gopeed/pull/1588)**: perf(http): use 64 KiB connection read buffers
 - ✅ **[neuralink/tsui#30](https://github.com/neuralink/tsui/pull/30)**: Load libX11 at runtime instead of linking it
 - ✅ **[anmolkapil/plexo#150](https://github.com/anmolkapil/plexo/pull/150)**: Keep the end date calendar mounted, and wait for history before moving a file in a test
 - ✅ **[anmolkapil/plexo#151](https://github.com/anmolkapil/plexo/pull/151)**: Re-render only what changed on each progress update
@@ -47,7 +48,6 @@ backend & AI-systems engineer in bengaluru. i like the layer where software meet
 - 🔄 **[neuralink/tsui#36](https://github.com/neuralink/tsui/pull/36)**: Explain the NeedsMachineAuth state
 - 🔄 **[anmolkapil/plexo#159](https://github.com/anmolkapil/plexo/pull/159)**: Say "No peers found yet", search again, and stop after 30 s when the DHT finds no one for a magnet link
 - 🔄 **[anmolkapil/plexo#158](https://github.com/anmolkapil/plexo/pull/158)**: Download from servers that give each byte range its own ETag (pCloud)
-- 🔄 **[GopeedLab/gopeed#1588](https://github.com/GopeedLab/gopeed/pull/1588)**: perf(http): use 64 KiB connection read buffers
 - 🔄 **[mlc-ai/xgrammar#987](https://github.com/mlc-ai/xgrammar/pull/987)**: fix: keep an escaped ^ at the start of a character class literal
 - 🔄 **[anmolkapil/plexo#154](https://github.com/anmolkapil/plexo/pull/154)**: Split the last blocks among free streams when a server caps each connection
 - 🔄 **[anmolkapil/plexo#153](https://github.com/anmolkapil/plexo/pull/153)**: Gather body chunks into fewer, larger disk writes
