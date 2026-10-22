@@ -26,6 +26,10 @@ backend & AI-systems engineer in bengaluru. i like the layer where software meet
 
 <!-- oss:start -->
 
+- ✅ **[anmolkapil/plexo#159](https://github.com/anmolkapil/plexo/pull/159)**: Say "No peers found yet", search again, and stop after 30 s when the DHT finds no one for a magnet link
+- ✅ **[anmolkapil/plexo#140](https://github.com/anmolkapil/plexo/pull/140)**: Ship a .tar.gz for Linux alongside the AppImage, .deb and .rpm
+- ✅ **[anmolkapil/plexo#153](https://github.com/anmolkapil/plexo/pull/153)**: Gather body chunks into fewer, larger disk writes
+- ✅ **[anmolkapil/plexo#158](https://github.com/anmolkapil/plexo/pull/158)**: Download from servers that give each byte range its own ETag (pCloud)
 - ✅ **[GopeedLab/gopeed#1588](https://github.com/GopeedLab/gopeed/pull/1588)**: perf(http): use 64 KiB connection read buffers
 - ✅ **[neuralink/tsui#30](https://github.com/neuralink/tsui/pull/30)**: Load libX11 at runtime instead of linking it
 - ✅ **[anmolkapil/plexo#150](https://github.com/anmolkapil/plexo/pull/150)**: Keep the end date calendar mounted, and wait for history before moving a file in a test
@@ -44,14 +48,14 @@ backend & AI-systems engineer in bengaluru. i like the layer where software meet
 
 <sub>in review</sub>
 
+- 🔄 **[Reskilll/sdsi-demo#2](https://github.com/Reskilll/sdsi-demo/pull/2)**: [productivity] Rohan — prod-doc-triage
+- 🔄 **[Reskilll/sdsi-demo#1](https://github.com/Reskilll/sdsi-demo/pull/1)**: [productivity] Asha — prod-doc-triage
+- 🔄 **[anmolkapil/plexo#166](https://github.com/anmolkapil/plexo/pull/166)**: Ask the original link for a fresh signed URL when one expires mid-download or while paused
+- 🔄 **[GopeedLab/gopeed#1597](https://github.com/GopeedLab/gopeed/pull/1597)**: perf(http): replace per-read goroutine in TimeoutReader with a timer
 - 🔄 **[neuralink/tsui#37](https://github.com/neuralink/tsui/pull/37)**: Add a help screen
 - 🔄 **[neuralink/tsui#36](https://github.com/neuralink/tsui/pull/36)**: Explain the NeedsMachineAuth state
-- 🔄 **[anmolkapil/plexo#159](https://github.com/anmolkapil/plexo/pull/159)**: Say "No peers found yet", search again, and stop after 30 s when the DHT finds no one for a magnet link
-- 🔄 **[anmolkapil/plexo#158](https://github.com/anmolkapil/plexo/pull/158)**: Download from servers that give each byte range its own ETag (pCloud)
 - 🔄 **[mlc-ai/xgrammar#987](https://github.com/mlc-ai/xgrammar/pull/987)**: fix: keep an escaped ^ at the start of a character class literal
-- 🔄 **[anmolkapil/plexo#154](https://github.com/anmolkapil/plexo/pull/154)**: Split the last blocks among free streams when a server caps each connection
-- 🔄 **[anmolkapil/plexo#153](https://github.com/anmolkapil/plexo/pull/153)**: Gather body chunks into fewer, larger disk writes
-- 🔄 **[anmolkapil/plexo#140](https://github.com/anmolkapil/plexo/pull/140)**: Ship a .tar.gz for Linux alongside the AppImage, .deb and .rpm
+- 🔄 **[anmolkapil/plexo#154](https://github.com/anmolkapil/plexo/pull/154)**: Split the last blocks between free streams, and stop the holder at the split
 - 🔄 **[sgl-project/sglang#44240](https://github.com/sgl-project/sglang/pull/44240)**: [Fix] trinity: Keep think tags inside tool-call arguments
 - 🔄 **[CopilotKit/CopilotKit#7810](https://github.com/CopilotKit/CopilotKit/pull/7810)**: fix(a2ui-renderer): omit component schemas from catalog context when includeSchema is false
 - 🔄 **[neuralinkcorp/datarepo#82](https://github.com/neuralinkcorp/datarepo/pull/82)**: Show a placeholder for unrenderable values in the SQL-filter catalog snippet
