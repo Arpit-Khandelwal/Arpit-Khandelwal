@@ -57,7 +57,7 @@ backend & AI-systems engineer in bengaluru. i like the layer where software meet
 - 🔄 **[mlc-ai/xgrammar#987](https://github.com/mlc-ai/xgrammar/pull/987)**: fix: keep an escaped ^ at the start of a character class literal
 - 🔄 **[anmolkapil/plexo#154](https://github.com/anmolkapil/plexo/pull/154)**: Split the last blocks between free streams, and stop the holder at the split
 - 🔄 **[sgl-project/sglang#44240](https://github.com/sgl-project/sglang/pull/44240)**: [Fix] trinity: Keep think tags inside tool-call arguments
-- 🔄 **[CopilotKit/CopilotKit#7810](https://github.com/CopilotKit/CopilotKit/pull/7810)**: fix(a2ui-renderer): omit component schemas from catalog context when includeSchema is false
+- 🔄 **[CopilotKit/CopilotKit#7810](https://github.com/CopilotKit/CopilotKit/pull/7810)**: fix(a2ui): omit component schemas from catalog context when includeSchema is false (React, Vue, Angular)
 - 🔄 **[neuralinkcorp/datarepo#82](https://github.com/neuralinkcorp/datarepo/pull/82)**: Show a placeholder for unrenderable values in the SQL-filter catalog snippet
 - 🔄 **[XiaoMiku01/TetherKit#12](https://github.com/XiaoMiku01/TetherKit/pull/12)**: fix(install): don't chown -R the shared PrivilegedHelperTools directory
 
