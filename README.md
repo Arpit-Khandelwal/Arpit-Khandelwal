@@ -48,8 +48,6 @@ backend & AI-systems engineer in bengaluru. i like the layer where software meet
 
 <sub>in review</sub>
 
-- 🔄 **[Reskilll/sdsi-demo#2](https://github.com/Reskilll/sdsi-demo/pull/2)**: [productivity] Rohan — prod-doc-triage
-- 🔄 **[Reskilll/sdsi-demo#1](https://github.com/Reskilll/sdsi-demo/pull/1)**: [productivity] Asha — prod-doc-triage
 - 🔄 **[anmolkapil/plexo#166](https://github.com/anmolkapil/plexo/pull/166)**: Ask the original link for a fresh signed URL when one expires mid-download or while paused
 - 🔄 **[GopeedLab/gopeed#1597](https://github.com/GopeedLab/gopeed/pull/1597)**: perf(http): replace per-read goroutine in TimeoutReader with a timer
 - 🔄 **[neuralink/tsui#37](https://github.com/neuralink/tsui/pull/37)**: Add a help screen
