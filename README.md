@@ -26,6 +26,7 @@ backend & AI-systems engineer in bengaluru. i like the layer where software meet
 
 <!-- oss:start -->
 
+- ✅ **[anmolkapil/plexo#154](https://github.com/anmolkapil/plexo/pull/154)**: Split the last blocks between free streams, and stop the holder at the split
 - ✅ **[GopeedLab/gopeed#1597](https://github.com/GopeedLab/gopeed/pull/1597)**: perf(http): replace per-read goroutine in TimeoutReader with a timer
 - ✅ **[CopilotKit/CopilotKit#7810](https://github.com/CopilotKit/CopilotKit/pull/7810)**: fix(a2ui): omit component schemas from catalog context when includeSchema is false (React, Vue, Angular)
 - ✅ **[anmolkapil/plexo#159](https://github.com/anmolkapil/plexo/pull/159)**: Say "No peers found yet", search again, and stop after 30 s when the DHT finds no one for a magnet link
@@ -54,7 +55,6 @@ backend & AI-systems engineer in bengaluru. i like the layer where software meet
 - 🔄 **[neuralink/tsui#37](https://github.com/neuralink/tsui/pull/37)**: Add a help screen
 - 🔄 **[neuralink/tsui#36](https://github.com/neuralink/tsui/pull/36)**: Explain the NeedsMachineAuth state
 - 🔄 **[mlc-ai/xgrammar#987](https://github.com/mlc-ai/xgrammar/pull/987)**: fix: keep an escaped ^ at the start of a character class literal
-- 🔄 **[anmolkapil/plexo#154](https://github.com/anmolkapil/plexo/pull/154)**: Split the last blocks between free streams, and stop the holder at the split
 - 🔄 **[sgl-project/sglang#44240](https://github.com/sgl-project/sglang/pull/44240)**: [Fix] trinity: Keep think tags inside tool-call arguments
 - 🔄 **[neuralinkcorp/datarepo#82](https://github.com/neuralinkcorp/datarepo/pull/82)**: Show a placeholder for unrenderable values in the SQL-filter catalog snippet
 - 🔄 **[XiaoMiku01/TetherKit#12](https://github.com/XiaoMiku01/TetherKit/pull/12)**: fix(install): don't chown -R the shared PrivilegedHelperTools directory
