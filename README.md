@@ -43,7 +43,7 @@ backend & AI-systems engineer in bengaluru. i like the layer where software meet
 - ✅ **[anmolkapil/plexo#139](https://github.com/anmolkapil/plexo/pull/139)**: Fall back to a plain GET when a server refuses range requests with 403
 - ✅ **[anmolkapil/plexo#144](https://github.com/anmolkapil/plexo/pull/144)**: Shorten a long name with an early dot instead of refusing the download
 - ✅ **[anmolkapil/plexo#146](https://github.com/anmolkapil/plexo/pull/146)**: Don't show 100% before the last byte, or "undefined" for sub-byte speeds
-- ✅ **[Anil-matcha/open-spaces#60](https://github.com/Anil-matcha/open-spaces/pull/60)**: Add Slop Filter for LinkedIn to independent implementations
+- ✅ **[Anil-matcha/open-genjutsu#60](https://github.com/Anil-matcha/open-genjutsu/pull/60)**: Add Slop Filter for LinkedIn to independent implementations
 - ✅ **[AbdelStark/awesome-typesafe-jev#91](https://github.com/AbdelStark/awesome-typesafe-jev/pull/91)**: Add Slop Filter for LinkedIn
 - ✅ **[TryCaspian/caspian-sdk#167](https://github.com/TryCaspian/caspian-sdk/pull/167)**: expose chat_type on Message so handlers can tell DMs from group chatter
 - ✅ **[ayghri/i-have-adhd#63](https://github.com/ayghri/i-have-adhd/pull/63)**: fix(claude): drop the manifest hooks key that blocks the SessionStart hook
