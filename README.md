@@ -51,7 +51,8 @@ backend & AI-systems engineer in bengaluru. i like the layer where software meet
 
 <sub>in review</sub>
 
-- 🔄 **[anmolkapil/plexo#223](https://github.com/anmolkapil/plexo/pull/223)**: Fix the settings smoke test after the network edit button was renamed
+- 🔄 **[anmolkapil/plexo#254](https://github.com/anmolkapil/plexo/pull/254)**: fix: let Cmd/Ctrl+A select the list while a closed menu fades out
+- 🔄 **[anmolkapil/plexo#238](https://github.com/anmolkapil/plexo/pull/238)**: Anonymous usage and error stats, on by default with an opt-out
 - 🔄 **[anmolkapil/plexo#222](https://github.com/anmolkapil/plexo/pull/222)**: Add issue forms and automatic issue labels
 - 🔄 **[anmolkapil/plexo#166](https://github.com/anmolkapil/plexo/pull/166)**: Ask the original link for a fresh signed URL when one expires mid-download or while paused
 - 🔄 **[neuralink/tsui#37](https://github.com/neuralink/tsui/pull/37)**: Add a help screen
