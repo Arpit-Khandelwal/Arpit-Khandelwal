@@ -51,6 +51,9 @@ backend & AI-systems engineer in bengaluru. i like the layer where software meet
 
 <sub>in review</sub>
 
+- 🔄 **[anmolkapil/plexo#257](https://github.com/anmolkapil/plexo/pull/257)**: feat: say what's holding a download back, under its total speed
+- 🔄 **[anmolkapil/plexo#256](https://github.com/anmolkapil/plexo/pull/256)**: feat: combine diagram shows each network's share, and marks a join or drop
+- 🔄 **[anmolkapil/plexo#255](https://github.com/anmolkapil/plexo/pull/255)**: feat: show how much sooner combining networks finished a download
 - 🔄 **[anmolkapil/plexo#254](https://github.com/anmolkapil/plexo/pull/254)**: fix: let Cmd/Ctrl+A select the list while a closed menu fades out
 - 🔄 **[anmolkapil/plexo#238](https://github.com/anmolkapil/plexo/pull/238)**: Anonymous usage and error stats, on by default with an opt-out
 - 🔄 **[anmolkapil/plexo#222](https://github.com/anmolkapil/plexo/pull/222)**: Add issue forms and automatic issue labels
