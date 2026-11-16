@@ -53,6 +53,13 @@ backend & AI-systems engineer in bengaluru. i like the layer where software meet
 
 <sub>in review</sub>
 
+- 🔄 **[anmolkapil/plexo#277](https://github.com/anmolkapil/plexo/pull/277)**: fix: don't split a part whose holder is waiting on its writer
+- 🔄 **[anmolkapil/plexo#276](https://github.com/anmolkapil/plexo/pull/276)**: fix: test the news server through the network and proxy a download would use
+- 🔄 **[anmolkapil/plexo#275](https://github.com/anmolkapil/plexo/pull/275)**: feat: Start next moves a queued download to the front of the queue
+- 🔄 **[anmolkapil/plexo#273](https://github.com/anmolkapil/plexo/pull/273)**: fix: read an NZB in time that grows with its size, not its square
+- 🔄 **[anmolkapil/plexo#272](https://github.com/anmolkapil/plexo/pull/272)**: fix: seal per-network proxy passwords, and keep them for the proxy they were saved for
+- 🔄 **[anmolkapil/plexo#271](https://github.com/anmolkapil/plexo/pull/271)**: fix(torrent): save names Windows can't take under ones it can
+- 🔄 **[anmolkapil/plexo#269](https://github.com/anmolkapil/plexo/pull/269)**: test: match folders as the app shows them in the settings specs
 - 🔄 **[anmolkapil/plexo#257](https://github.com/anmolkapil/plexo/pull/257)**: feat: say what's holding a download back, under its total speed
 - 🔄 **[anmolkapil/plexo#256](https://github.com/anmolkapil/plexo/pull/256)**: feat: combine diagram shows each network's share, and marks a join or drop
 - 🔄 **[anmolkapil/plexo#255](https://github.com/anmolkapil/plexo/pull/255)**: feat: show how much sooner combining networks finished a download
