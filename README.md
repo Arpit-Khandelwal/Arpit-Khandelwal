@@ -26,6 +26,15 @@ backend & AI-systems engineer in bengaluru. i like the layer where software meet
 
 <!-- oss:start -->
 
+- ✅ **[anmolkapil/plexo#275](https://github.com/anmolkapil/plexo/pull/275)**: feat: Start next moves a queued download to the front of the queue
+- ✅ **[anmolkapil/plexo#271](https://github.com/anmolkapil/plexo/pull/271)**: fix(torrent): save names Windows can't take under ones it can
+- ✅ **[anmolkapil/plexo#272](https://github.com/anmolkapil/plexo/pull/272)**: fix: seal per-network proxy passwords, and keep them for the proxy they were saved for
+- ✅ **[anmolkapil/plexo#276](https://github.com/anmolkapil/plexo/pull/276)**: fix: test the news server through the network and proxy a download would use
+- ✅ **[anmolkapil/plexo#273](https://github.com/anmolkapil/plexo/pull/273)**: fix: read an NZB in time that grows with its size, not its square
+- ✅ **[anmolkapil/plexo#277](https://github.com/anmolkapil/plexo/pull/277)**: fix: don't split a part whose holder is waiting on its writer
+- ✅ **[anmolkapil/plexo#269](https://github.com/anmolkapil/plexo/pull/269)**: test: match folders as the app shows them in the settings specs
+- ✅ **[anmolkapil/plexo#256](https://github.com/anmolkapil/plexo/pull/256)**: feat: combine diagram shows each network's share, and marks a join or drop
+- ✅ **[anmolkapil/plexo#166](https://github.com/anmolkapil/plexo/pull/166)**: Ask the original link for a fresh signed URL when one expires mid-download or while paused
 - ✅ **[anmolkapil/plexo#222](https://github.com/anmolkapil/plexo/pull/222)**: Add issue forms and automatic issue labels
 - ✅ **[anmolkapil/plexo#254](https://github.com/anmolkapil/plexo/pull/254)**: fix: let Cmd/Ctrl+A select the list while a closed menu fades out
 - ✅ **[anmolkapil/plexo#154](https://github.com/anmolkapil/plexo/pull/154)**: Split the last blocks between free streams, and stop the holder at the split
@@ -53,18 +62,7 @@ backend & AI-systems engineer in bengaluru. i like the layer where software meet
 
 <sub>in review</sub>
 
-- 🔄 **[anmolkapil/plexo#277](https://github.com/anmolkapil/plexo/pull/277)**: fix: don't split a part whose holder is waiting on its writer
-- 🔄 **[anmolkapil/plexo#276](https://github.com/anmolkapil/plexo/pull/276)**: fix: test the news server through the network and proxy a download would use
-- 🔄 **[anmolkapil/plexo#275](https://github.com/anmolkapil/plexo/pull/275)**: feat: Start next moves a queued download to the front of the queue
-- 🔄 **[anmolkapil/plexo#273](https://github.com/anmolkapil/plexo/pull/273)**: fix: read an NZB in time that grows with its size, not its square
-- 🔄 **[anmolkapil/plexo#272](https://github.com/anmolkapil/plexo/pull/272)**: fix: seal per-network proxy passwords, and keep them for the proxy they were saved for
-- 🔄 **[anmolkapil/plexo#271](https://github.com/anmolkapil/plexo/pull/271)**: fix(torrent): save names Windows can't take under ones it can
-- 🔄 **[anmolkapil/plexo#269](https://github.com/anmolkapil/plexo/pull/269)**: test: match folders as the app shows them in the settings specs
 - 🔄 **[anmolkapil/plexo#257](https://github.com/anmolkapil/plexo/pull/257)**: feat: say what's holding a download back, under its total speed
-- 🔄 **[anmolkapil/plexo#256](https://github.com/anmolkapil/plexo/pull/256)**: feat: combine diagram shows each network's share, and marks a join or drop
-- 🔄 **[anmolkapil/plexo#255](https://github.com/anmolkapil/plexo/pull/255)**: feat: show how much sooner combining networks finished a download
-- 🔄 **[anmolkapil/plexo#238](https://github.com/anmolkapil/plexo/pull/238)**: Anonymous usage and error stats, on by default with an opt-out
-- 🔄 **[anmolkapil/plexo#166](https://github.com/anmolkapil/plexo/pull/166)**: Ask the original link for a fresh signed URL when one expires mid-download or while paused
 - 🔄 **[neuralink/tsui#37](https://github.com/neuralink/tsui/pull/37)**: Add a help screen
 - 🔄 **[neuralink/tsui#36](https://github.com/neuralink/tsui/pull/36)**: Explain the NeedsMachineAuth state
 - 🔄 **[mlc-ai/xgrammar#987](https://github.com/mlc-ai/xgrammar/pull/987)**: fix: keep an escaped ^ at the start of a character class literal
