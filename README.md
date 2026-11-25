@@ -62,7 +62,6 @@ backend & AI-systems engineer in bengaluru. i like the layer where software meet
 
 <sub>in review</sub>
 
-- 🔄 **[anmolkapil/plexo#257](https://github.com/anmolkapil/plexo/pull/257)**: feat: say what's holding a download back, under its total speed
 - 🔄 **[neuralink/tsui#37](https://github.com/neuralink/tsui/pull/37)**: Add a help screen
 - 🔄 **[neuralink/tsui#36](https://github.com/neuralink/tsui/pull/36)**: Explain the NeedsMachineAuth state
 - 🔄 **[mlc-ai/xgrammar#987](https://github.com/mlc-ai/xgrammar/pull/987)**: fix: keep an escaped ^ at the start of a character class literal
